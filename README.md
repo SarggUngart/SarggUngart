@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/SarggUngart/badges/large)   
+[![codewars](https://www.codewars.com/users/SarggUngart/badges/large)](https://www.codewars.com/users/SarggUngart/badges/large)   
 
